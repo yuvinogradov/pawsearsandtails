@@ -561,6 +561,10 @@ a {
   margin-left: 23px;
 }
 
+  .email{
+    font-size: 16px;
+  }
+
 /*  MEDIA */
 /*  768+ - 1280 */
 
@@ -1258,9 +1262,7 @@ a {
     width: auto;
   }
 
-  .email{
-    font-size: 16px;
-  }
+
 
   .footer-image {
     margin: 0 auto;
