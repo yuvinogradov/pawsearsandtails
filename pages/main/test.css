@@ -1798,7 +1798,7 @@ img.start-screen {
     /* background-size: 100%; */
     flex-direction: column;
     justify-content: flex-end;
-    height: 693px;
+    /* height: 693px; */
     margin-left: 40px;
   }
 
