@@ -1793,7 +1793,7 @@ img.start-screen {
     /* background-size: 100%; */
     flex-direction: column;
     justify-content: flex-end;
-    height: 693px;
+    height: auto;
     margin-left: 40px;
   }
 
@@ -1803,7 +1803,7 @@ img.start-screen {
     /* padding-top: 100px; */
     align-self: center;
     padding-left: 0;
-    padding-top:unset;
+    padding-top: unset;
     vertical-align: bottom;
   }
 
