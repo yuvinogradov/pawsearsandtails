@@ -1800,9 +1800,10 @@ img.start-screen {
   .start-screen-image > img {
     width: 260px;
     height: 271.77px;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     align-self: center;
     padding-left: 0;
+    vertical-align: bottom;
   }
 
   .button-primary {
