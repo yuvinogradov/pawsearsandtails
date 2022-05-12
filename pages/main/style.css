@@ -977,9 +977,9 @@ img.start-screen {
   gap: 82px;
 }
 
-  .email{
-    font-size: 16px;
-  }
+.email {
+  font-size: 16px;
+}
 
 /*  MEDIA  */
 /*  768+ - 1280 */
@@ -1059,6 +1059,8 @@ img.start-screen {
   .start-screen-content {
     flex-direction: column;
     margin-top: 0;
+    height: 1060px;
+
     /* display: flex;
     margin-top: 60px;
     justify-content: space-between;
