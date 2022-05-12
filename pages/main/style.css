@@ -1803,6 +1803,7 @@ img.start-screen {
     /* padding-top: 100px; */
     align-self: center;
     padding-left: 0;
+    padding-top:unset;
     vertical-align: bottom;
   }
 
